@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 
-I’m Yiheng Liang, a PhD candidate in the [Department of Environmental Systems Science](https://usys.ethz.ch/en/) at [ETH Zurich](https://ethz.ch/en.html) and a research assistant in the [School of Engineering](https://www.zhaw.ch/en/engineering) at [ZHAW](https://www.zhaw.ch/en). Before that, I worked as a research assistant at [ETH Zurich](https://ethz.ch/en.html) and [Shandong University (SDU)](https://www.sdu.edu.cn/). I received my master’s degree from [The University of Hong Kong](https://www.hku.hk/en) and my bachelor’s degree from [Sun Yat-Sen University](https://www.sysu.edu.cn/).
+I’m Yiheng Liang, a PhD candidate in the [Department of Environmental Systems Science](https://usys.ethz.ch/en/) at [ETH Zurich](https://ethz.ch/en.html) and a research assistant in the [School of Engineering](https://www.zhaw.ch/en/engineering) at [ZHAW](https://www.zhaw.ch/en). Before that, I worked as a research assistant at [ETH Zurich](https://ethz.ch/en.html) and [Shandong University](https://www.sdu.edu.cn/). I received my master’s degree from [The University of Hong Kong](https://www.hku.hk/en) and my bachelor’s degree from [Sun Yat-Sen University](https://www.sysu.edu.cn/).
 
 My research lies at the intersection of atmospheric science and physical chemistry, with a focus on aircraft emissions and their environmental impacts. I am particularly interested in the physicochemical properties of jet-engine soot particles and their interactions with water vapor and volatile organic compounds (VOCs), with the goal of better understanding their impacts on air quality and climate.
 
@@ -62,7 +62,7 @@ My research lies at the intersection of atmospheric science and physical chemist
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">Journal Article</div><img src='projects/chemosphere20/chemosphere20.png' alt="sym" width="80%"></div>
+    <div><div class="badge">Journal Article</div><img src='projects/chemosphere20/chemosphere20.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
