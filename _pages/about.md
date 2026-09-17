@@ -31,9 +31,9 @@ My research lies at the intersection of atmospheric science and physical chemist
 *: Corresponding Author
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <!-- <div class='paper-box-image'>
     <div><div class="badge">Conference</div><img src='projects/rizhao_uclim24/rizhao_uclim24.png' alt="sym" width="100%"></div>
-  </div>
+  </div> -->
   <div class='paper-box-text' markdown="1">
 
   [Model study of water vapor and VOCs adsorption on bulk jet engine soot particles: Thermodynamic and kinetic aspects](https://doi.org/10.5194/egusphere-egu25-15808)
@@ -62,7 +62,7 @@ My research lies at the intersection of atmospheric science and physical chemist
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">Journal Article</div><img src='projects/chemosphere20/chemosphere20.png' alt="sym" width="100%"></div>
+    <div><div class="badge">Journal Article</div><img src='projects/chemosphere20/chemosphere20.png' alt="sym" width="80%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
